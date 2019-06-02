@@ -1,0 +1,1344 @@
+[per
+acon
+Clave Valor
+carac
+
+
+
+
+
+electró
+infor
+apli
+
+
+implementa
+comparación
+Persisten
+opera
+infor
+docu
+
+
+opera
+con
+sis
+op
+comu
+clave valor
+com
+modifi
+
+
+clave valor
+
+
+
+des
+
+
+
+
+
+re definir
+
+
+
+
+
+almace
+adop
+prin
+ser
+
+
+al
+
+General
+des normalizadas
+relaciona
+Clave Valor
+clave valor
+Clave Valor
+clave
+clave valor
+almace
+consis
+rela
+
+espi
+imple
+forma
+
+infor
+ac
+di
+per
+nece
+media alta
+alma
+docu
+subdocu
+subdocu
+
+
+Map Reduce
+ mongo
+
+
+
+anteriormente
+
+
+com
+proble
+docu
+
+
+
+
+
+multi
+
+
+subdoc
+repre
+sub
+WALLE
+WALLE
+dsubdocu
+modifi
+
+
+docu
+
+WALLE
+E
+E
+E
+E
+refer
+TITULOWALLE
+findtituloWALLE
+
+
+WALLE
+E
+E
+
+ si
+walle
+ei
+walle
+e
+
+
+per
+
+
+condi
+indi
+up
+
+
+
+
+
+
+com
+
+úni
+pre
+subdocu
+ele
+doc
+
+dupli
+mien
+resul
+1
+
+des
+documen
+docu
+docu
+
+
+WALLE
+WALLE
+
+
+
+1
+agru
+val
+
+
+WALLE
+WALLE
+E
+en
+1
+
+
+subdocu
+
+minús
+run
+setParameter
+ noBuscar
+expireAfter
+docu
+con
+
+cam
+paralelo
+an
+pre
+con
+
+
+
+
+
+
+
+
+
+
+es
+
+tran
+repre
+
+
+
+ejem
+"http://grafo.com/user/name".,
+http://grafo.com/user/name,
+
+
+
+
+
+alma
+
+
+http://localhost:8890/,
+http://localhost:8890/conductor,
+op
+isql vt
+U
+P
+
+
+ vt
+U
+P
+H
+S
+
+
+
+
+
+
+
+
+
+
+
+<http,
+<http,
+<http,
+<http,
+<http://user.graph/userID2>,
+<http://users,
+<http://articles.graph>.,
+<http,
+<http,
+<http://grafo.graph>,
+<http,
+<http,
+rep
+in
+<http,
+<http,
+elec
+sub
+<http://appl.com/art/>,
+identifi
+<http,
+<http,
+<http,
+<http,
+buy:<http://appl.com/purchase/>:,
+<http,
+<http,
+<http,
+<http,
+<http,
+rev:<http://appl.com/rev/idReview>:,
+<http,
+<http,
+<http,
+<http,
+<http,
+con
+<http,
+<http,
+<http,
+<http,
+<http://appl.com/actions/>,
+
+<http,
+
+FROM
+<http,
+<http,
+op
+
+cam
+flexibi
+
+
+
+<http,
+<http,
+de
+<http,
+<http,
+<http,
+<http,
+<http,
+<http,
+<http,
+<http,
+<http,
+<http,
+<http,
+<http,
+ope
+<http,
+<http,
+<http,
+<http,
+ejem
+<http,
+<http,
+<http,
+CONS
+<http,
+<http,
+<http,
+<http,
+<http,
+<http,
+<http,
+<http,
+
+
+<http,
+<http,
+
+
+rela
+
+
+
+
+
+does:<http,
+art:<http,
+p:<http,
+<http,
+("http,
+"http,
+
+si
+
+
+
+
+
+<http,
+
+<http,
+relacion:<http,
+persona:<http,
+<http,
+
+
+relacion:<http,
+persona:<http,
+relacion:<http,
+<http,
+
+
+parti
+1
+ar
+
+
+al
+do
+colec
+
+disponible
+
+re
+rela
+
+
+uti
+Virtu
+general
+peti
+arqui
+
+
+encon
+
+
+
+
+po
+po
+infor
+infor
+po
+po
+canti
+
+
+Identifi
+po
+
+creden
+apare
+per
+disponi
+
+val
+
+
+úni
+sub
+subdocu
+com
+
+
+
+
+<http://applV.com/art/>,
+iden
+<http,
+<http,
+<http,
+<http,
+buy:<http://appl.com/purchase/>:,
+<http,
+<http,
+<http,
+<http,
+<http,
+rev:<http://appl.com/rev/idReview>:,
+<http,
+<http,
+<http,
+<http,
+<http,
+con
+<http,
+<http,
+<http,
+<http,
+<http://applV.com/actions/>,
+
+anterior
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ urlDB
+ user
+ pwd
+ ConexVirtuoso
+automáti
+ ConexMongo
+ user
+ pass
+ Server
+ mClient
+ Database
+ authent
+ authentuser
+
+ conect
+
+
+val
+
+
+ reviewrs
+ consultObtReviewsidUser
+ consultaReviewuserId
+
+
+
+ comprars
+ consultObtComprasidUser
+ virtuoso
+ conn
+ consultaBuyuserId
+ consultaReviewuserId
+ existeComprauserId
+ existeRevuserId
+ conex
+ db
+ CollectionName
+ pedidos
+ consultaInsertarpedido
+ gSonBuilder
+com
+elimi
+ conex
+ db
+ CollectionName
+ carrito
+ consultaInsertaruserId
+ consultaModArtnumArt
+ consultaEliminarartId
+ gSonBuilder
+méto
+
+ conex
+ db
+ CollectionName
+ products
+ guardarArticuloprod
+ crearConsultaBusquedaelemBusqueda
+ consultaBuscarelemBusqueda
+ consultaFiltrosfiltros
+ conn
+ connM
+ ordenarlist
+id
+ idCompra
+ idArt
+ tituloArt
+ fecha
+ precio
+ formato
+ estado
+ precio
+ descuento
+ total
+ envio
+ titulo
+ formato
+id
+ autores
+ editorial
+ paginas
+ fecha
+ idioma
+ descripcion
+ actores
+ productora
+ duracion
+ director
+ guionista
+ fecha
+ idioma
+ descripcion
+ dUser
+ idReview
+ idArt
+ titulo
+ descripcion
+ rating
+ formato
+
+
+canti
+corres
+
+
+
+
+
+
+Pedi
+independien
+simi
+
+
+repre
+
+
+http.,
+artícu
+recomen
+pre
+
+disponi
+
+vermodi
+usua
+
+almace
+bottom up
+
+
+
+
+
+aparien
+
+http,
+
+
+ac
+im
+cone
+
+op
+
+alma
+per
+idio
+
+alma
+ge
+
+
+compro
+http.,
+
+
+desa
+obje
+
+encar
+clave valor
+clave valor
+gene
+re
+carac
+
+
+imple
+artícu
+
+
+
+
+
+
+nece
+fun
+does:<http,
+article:<http,
+review:<http,
+<http,
+com
+does:<http,
+article:<http,
+buy:<http,
+<http,
+es
+
+
+
+
+or
+de
+si
+
+
+simi
+progra
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+user0 user30
+
+
+
+
+
+
+
+rendi
+
+
+
+
+
+op
+
+
+replSet
+in
+
+
+port
+dbpath
+replSet
+port
+dbpath
+replSet
+repli
+port
+dbpath
+replSet
+port
+dbpath
+replSet
+port
+dbpath
+replSet
+configu
+
+
+port
+dbpath
+replSet
+
+port
+dbpath
+replSet
+port
+dbpath
+replSet
+secun
+ to-date
+correspon
+
+
+
+
+
+
+con
+modifi
+configsvr
+Alterna
+
+servi
+port
+in
+
+herra
+
+
+
+mo
+
+
+
+secun
+U
+P
+RDFREPLGRAPH
+"http://,
+(’http,
+indi
+repl
+pre
+
+servi
+
+princi
+
+
+
+
+
+
+
+
+
+
+
+
+
+imple
+
+
+im
+apli
+
+clave valor
+
+proble
+
+
+
+
+carrera
+ key
+keyserver
+recv
+http,
+ distroMongoDBorgrepoubuntu
+ upstart
+ get
+ get
+ 10
+
+
+etc
+
+des comentar
+ get
+ opensource
+http://localhost:8890/conductor/.,
+
+asig
+O
+ linux
+ x64
+183-1-
+http,
+ linux
+ x64
+183-1-
+ linux
+ x64
+183-1
+
+ linux
+ x64
+183-1-
+
+
+co
+
+http://localhost.,
+
+selec
+
+ xvf
+ 7u45
+ linux
+ x64targz
+p
+ alternatives
+install
+ alternatives
+install
+ alternatives
+install
+ get
+ get
+ admin
+http://localhost:8080/,
+tomcat usersxml
+tomcat usersxml
+ usersxml
+con
+ gui
+ gui
+nece
+
+6-jdk
+http://localhost:8080/manager/html,
+familiar
+
+
+
+re
+alma
+alma
+
+
+
+Polí
+almace
+
+
+
+
+ta
+
+
+
+
+
+
+
+desa
+
+
+
+
+
+
+
+carac
+aplica
+mo
+princi
+diferen
+
+
+
+
+or
+mí
+
+
+
+
+
+
+que
+com
+
+
+
+aplica
+
+
+
+
+modifi
+mejo
+di
+
+ key
+keyserver
+recv
+http,
+ distroMongoDBorgrepoubuntu
+ upstart
+ get
+ get
+ 10
+especi
+f
+f
+
+
+R
+infor
+config
+ante
+
+
+
+
+recogi
+auth
+setParameter
+f
+etcMon
+username
+password
+authenticationDatabase
+cre
+u
+p
+con
+privi
+
+user
+password
+authenticationDatabase
+ad
+username
+password
+authenticationDatabase
+ad
+elimi
+
+
+re
+
+
+
+E
+E
+
+
+WALLE
+E
+E
+1
+
+
+escrit
+mon
+de
+v
+username
+password
+authenticationDatabase
+out
+v
+v
+username
+password
+authenticationDatabase
+bDatenowba
+EforEachfunction
+bDatenowba
+bDatenowba
+bDatenowba
+bDatenowba
+bDatenowba
+E
+bDatenowba
+E
+bDatenowba
+E
+bDatenowba
+bDatenowba
+bDatenowba
+
+con
+bDatenowba
+E
+bDatenowba
+EforEachfunction
+bDatenowba
+E
+bDatenowba
+bDatenowba
+bDatenowba
+bDatenowba
+bDatenowba
+E
+bDatenowba
+E
+bDatenowba
+E
+bDatenowba
+bDatenowba
+bDatenowba
+bDatenowba
+E
+bDatenowba
+ba
+ter
+com
+WALLE
+E
+WALLE
+E
+WALLE
+E
+WALLE
+E
+reposi
+apt get
+virtuoso opensource
+
+
+etcvirtuoso opensource-61
+virtuosot
+ fd
+d
+
+http://localhost:8890/conductor/,
+
+
+di
+
+
+
+lec
+de
+
+
+ejem
+http://mygraph.com:,
+(’http,
+’http://mygraph.com’,
+’http://mygraph2.com’,
+
+corre
+
+
+
+
+pro
+ex
+
+
+interblo
+
+grafos
+
+
+
+
+
+
+
+
+
+
+
+
+
+apli
+apli
+sen
+in
+
+
+mem
+
+
+MaxDirty
+sis
+
+backup
+trans
+final
+for
+http_ttl_triple,
+
+
+pre
+"http://appl.com/",
+(’http://appl.com/’,
+
+
+
+varlibvirtuoso opensource-61db
+
+ opensource
+61dbdata000001ttl
+’http,
+par
+
+
+fun
+loadgraphsvarlibvirtuoso opensource-61db
+<http://appl.com7>.,
+does:<http,
+article:<http,
+art:<http,
+rev:<http,
+buy:<http,
+review:<http,
+<http,
+<http,
+<http,
+<http,
+<http,
+<http://appl2.com>,
+
+does:<http,
+article:<http,
+art:<http,
+rev:<http,
+buy:<http,
+review:<http,
+<http,
+<http,
+<http,
+<http,
+<http,
+<http,
+<http,
+<http,
+<http,
+<http,
+https://www.dropbox.com/s/4qs24f253pjaj8d/dise%C3%B1oEntorno.pdf,
+
+
+u
+p
+authenticationDatabase
+host
+https://www.dropbox.com/s/lpeuznq1svr8htj/dumpMongo.zip,
+http://158.227.115.72:8891/conductor/,
+di
+http://162.243.43.244:8890/conductor/,
+alma
+
+
+
+
+http://158.227.115.72:8890/conductor/,
+"http://appl.com/".,
+ vt
+H
+S
+U
+P
+ vt
+H
+S
+U
+P
+S
+"http://appl.com/";,
+"http://applV.com/",
+
+subgrafos
+https://www.dropbox.com/s/bo8rtc611kshpqx/virtuosoDumpDise%C3%B1o.zip,
+https://www.dropbox.com/s/zwo31rqk1alnv7f/dumpVirtuosoApplV.zip,
+https://www.dropbox.com/s/i0l4lrurqc4k4xa/virtuoso.db.tar.xz,
+
+
+http://158.227.115.72:8787/PoliglotWebapp/,
+
+
+https://www.dropbox.com/s/71w6oyc6cedz49y/PoliglotWebapp.war,
+
+Apli
+
+https://www.dropbox.com/s/6nv5q9yu0te613m/Services.zip,
+https://www.dropbox.com/s/96epy3htdm8knnn/ServicesJavaDoc.zip,
+http://dev.mysql.com/downloads/file.php?id=450948,
+http://virtuoso.openlinksw.com/dataspace/doc/dav/wiki/Main/VOSDownload/,
+http://central.maven.org/maven2/org/mongodb/mongo-java-driver/2.9.3/,
+https://code.google.com/p/google-gson/downloads/detail?name=google-gson-2.,
+24 releasezipcan2q
+https://www.dropbox.com/s/xnnksppdie6k4u9/AplicacionPrinc.zip,
+https://www.dropbox.com/s/e5c0f038x2v6s83/AplicacionPrinJavaDoc.zip,
+json simple
+http://code.google.com/p/json-simple/downloads/detail?,
+namejson simple-111jarcan2q
+
+
+https://www.dropbox.com/s/gc2cn572ynalsxk/inventario.sql,
+
+
+
+
+http://158.227.115.72:8787/MySqlWebapp_1/,
+
+exista
+https://www.dropbox.com/s/sth4vk676nkux2v/MySqlWebapp_1.war,
+https://www.dropbox.com/s/xx41bzk5rhuxixv/ServiciosRelacional.zip,
+https://www.dropbox.com/s/90ly04z0n8sj3vu/applMysql.sql,
+
+
+https://www.dropbox.com/s/cnlk5hb4pl6yrcc/Mysqldump.zip,
+h
+u
+p
+local
+ infile
+
+
+aplica
+https://www.dropbox.com/s/lvm3t19nh2bne5d/generarArticulosMongo.zip,
+preferen
+https://www.dropbox.com/s/rrmroyj8a7nw1kg/generarUsersVirtuoso.zip,
+https://www.dropbox.com/s/931u7vacdmk9aky/generalInventarioMy.zip,
+https://www.dropbox.com/s/wrvwo5pmtb4er92/generarArticulosMySQL.zip,
+pref
+https://www.dropbox.com/s/wh0kop8nharr6j4/generarUserPrefMysql.zip,
+google api-java-client
+google api-client
+google oauth-client-java
+httpclient,
+httpcore,
+google api-services-freebase
+http://repo1.maven.org/maven2/com/google/apis/google-api-services-freebase/,
+v1 rev39-1150-rcgoogle-api-services-freebase-v1-rev39-1150-rcjar
+commons lang
+http://ftp.cixug.es/apache//commons/lang/binaries/commons-lang-2.6-bin.,
+json path
+http://mirrors.ibiblio.org/maven2/com/jayway/jsonpath/json-path/0.8.1/,
+json path-081-javadocjar
+json smart
+http://code.google.com/p/json-smart/downloads/detail?name=json-smart-2.,
+0 RC3-bundlezipcan2q
+json simple
+http://code.google.com/p/json-simple/downloads/detail?name=json-simple-1.,
+http://www.couchbase.com/why-nosql/,
+nosql database
+Addison Wesley
+http://www.indeed.com/jobtrends?q=NoSQL&l=,
+http://www.google.com/trends/explore?q=Nosql#q=Nosql&date=1%,
+http://www.forbes.com/sites/christopherfrank/2012/03/25/,
+improving decision-making-in-the-world-of-big-data
+http://ieeexplore.ieee.org/xpl/articleDetails.,
+http:,
+wwwkendixorgblogmongodb as-rdf-triple-store
+http://www.julianbrowne.com/,
+articleviewerbrewers cap-theorem
+http://www.w3resource.com/mongodb/nosql.php.,
+http://docs.mongodb.org/master/MongoDB-manual.,
+http://docs.,
+http://docs.openlinksw.com/virtuoso/,
+http://docs.mongodb.org/manual/core/introduction/.,
+http://docs.mongodb.org/,
+Db engines
+http://db-engines.com/en/ranking.,
+http://docs.mongodb.org/manual/,
+data modeling
+http://docs.mongodb.org/manual/crud/.,
+http://docs.mongodb.org/manual/,
+http://docs.mongodb.org/manual/reference/operator/type/#op._S_type.,
+http://docs.openlinksw.com/virtuoso/overview.,
+http://,
+http://boards.openlinksw.com/,
+http://docs.,
+http://wifo5-03.informatik.uni-mannheim.,
+http://www.w3.org/TR/rdf-sparql-query/#scopeFilters.,
+http://virtuoso.openlinksw.com/,
+https://www.dropbox.com/s/96epy3htdm8knnn/,
+https://www.dropbox.com/s/,
+http://docs.oracle.com/javase/specs/jls/,
+se7htmljls1html
+http://www.oracle.com/technetwork/java/javaee/,
+http://www.json.org/.,
+http://es.wikipedia.org/wiki/HTML.,
+http://es.wikipedia.org/wiki/JavaScript.,
+http://jquery.com/.,
+http://es.wikipedia.org/wiki/JUnit.,
+http://www.mozilla.org/,
+es ES
+http://es.wikipedia.org/wiki/Tomcat.,
+http://es.wikipedia.org/wiki/NetBeans.,
+https://developers.google.com/freebase/index.,
+https://www.dropbox.com/.,
+http://www.ubuntu-guia.com/2012/,
+04instalar oracle-java-7-en-ubuntu-1204html
+http://virtuoso.openlinksw.,
+http://docs.openlinksw.com/virtuoso/,
+http://,
+http://,
+http://virtuoso.openlinksw.com/dataspace/doc/dav/wiki/Main/,
+http://virtuoso.openlinksw.com/,
+http://virtuoso.openlinksw.com/]
